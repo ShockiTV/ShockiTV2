@@ -146,7 +146,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_16";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Policista 16 - pod Whitelistem";
+					description="WhiteListed - Cop 16";
 				};
 				class Item1
 				{
@@ -159,7 +159,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_17";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Policista 17 - pod Whitelistem";
+					description="WhiteListed - Cop 17";
 				};
 				class Item2
 				{
@@ -172,7 +172,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_18";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Pyrotechnik 1 - pod Whitelistem";
+					description="WhiteListed - Bomb Squad 1";
 				};
 				class Item3
 				{
@@ -185,7 +185,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_13";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Policista 13 - pod Whitelistem";
+					description="WhiteListed - Cop 13";
 				};
 				class Item4
 				{
@@ -198,7 +198,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_6";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Policista 6 - pod Whitelistem";
+					description="WhiteListed - Cop 6";
 				};
 				class Item5
 				{
@@ -211,7 +211,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_11";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Policista 11 - pod Whitelistem";
+					description="WhiteListed - Cop 11";
 				};
 				class Item6
 				{
@@ -224,7 +224,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_7";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Policista 7 - pod Whitelistem";
+					description="WhiteListed - Cop 7";
 				};
 				class Item7
 				{
@@ -237,7 +237,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_12";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Policista 12 - pod Whitelistem";
+					description="WhiteListed - Cop 12";
 				};
 				class Item8
 				{
@@ -250,7 +250,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_14";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Policista 14 - pod Whitelistem";
+					description="WhiteListed - Cop 14";
 				};
 				class Item9
 				{
@@ -264,7 +264,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_19";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Pyrotechnik 2 - pod Whitelistem";
+					description="WhiteListed - Bomb Squad 2";
 				};
 				class Item10
 				{
@@ -277,7 +277,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_15";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Policista 15 - pod Whitelistem";
+					description="WhiteListed - Cop 15";
 				};
 				class Item11
 				{
@@ -290,7 +290,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_9";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Policista 9 - pod Whitelistem";
+					description="WhiteListed - Cop 9";
 				};
 				class Item12
 				{
@@ -303,7 +303,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_8";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Policista 8 - pod Whitelistem";
+					description="WhiteListed - Cop 8";
 				};
 				class Item13
 				{
@@ -316,7 +316,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_4";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Policista 4 - pod Whitelistem";
+					description="Public Slot - Cop 4";
 				};
 				class Item14
 				{
@@ -329,7 +329,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_2";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Policista 2 - pod Whitelistem";
+					description="Public Slot - Cop 2";
 				};
 				class Item15
 				{
@@ -342,7 +342,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_3";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Policista 3 - pod Whitelistem";
+					description="Public Slot - Cop 3";
 				};
 				class Item16
 				{
@@ -355,7 +355,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_5";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Policista 5 - pod Whitelistem";
+					description="WhiteListed - Cop 5";
 				};
 				class Item17
 				{
@@ -368,7 +368,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_10";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Policista 10 - pod Whitelistem";
+					description="WhiteListed - Cop 10";
 				};
 				class Item18
 				{
@@ -382,7 +382,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_1";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="Policista 1 - pod Whitelistem";
+					description="Public Slot - Cop 1";
 				};
 			};
 		};
@@ -404,7 +404,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_1";
-					description="Civilista 1";
+					description="Civ 1";
 				};
 			};
 		};
@@ -426,7 +426,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_2";
-					description="Civilista 2";
+					description="Civ 2";
 				};
 			};
 		};
@@ -448,7 +448,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_3";
-					description="Civilista 3";
+					description="Civ 3";
 				};
 			};
 		};
@@ -470,7 +470,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_4";
-					description="Civilista 4";
+					description="Civ 4";
 				};
 			};
 		};
@@ -492,7 +492,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_5";
-					description="Civilista 5";
+					description="Civ 5";
 				};
 			};
 		};
@@ -514,7 +514,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_6";
-					description="Civilista 6";
+					description="Civ 6";
 				};
 			};
 		};
@@ -536,7 +536,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_7";
-					description="Civilista 7";
+					description="Civ 7";
 				};
 			};
 		};
@@ -558,7 +558,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_8";
-					description="Civilista 8";
+					description="Civ 8";
 				};
 			};
 		};
@@ -580,7 +580,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_9";
-					description="Civilista 9";
+					description="Civ 9";
 				};
 			};
 		};
@@ -602,7 +602,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_10";
-					description="Civilista 10";
+					description="Civ 10";
 				};
 			};
 		};
@@ -624,7 +624,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_11";
-					description="Civilista 11";
+					description="Civ 11";
 				};
 			};
 		};
@@ -646,7 +646,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_12";
-					description="Civilista 12";
+					description="Civ 12";
 				};
 			};
 		};
@@ -668,7 +668,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_13";
-					description="Civilista 13";
+					description="Civ 13";
 				};
 			};
 		};
@@ -690,7 +690,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_14";
-					description="Civilista 14";
+					description="Civ 14";
 				};
 			};
 		};
@@ -712,7 +712,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_15";
-					description="Civilista 15";
+					description="Civ 15";
 				};
 			};
 		};
@@ -734,7 +734,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_16";
-					description="Civilista 16";
+					description="Civ 16";
 				};
 			};
 		};
@@ -756,7 +756,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_17";
-					description="Civilista 17";
+					description="Civ 17";
 				};
 			};
 		};
@@ -778,7 +778,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_18";
-					description="Civilista 18";
+					description="Civ 18";
 				};
 			};
 		};
@@ -800,7 +800,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_19";
-					description="Civilista 19";
+					description="Civ 19";
 				};
 			};
 		};
@@ -822,7 +822,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_20";
-					description="Civilista 20";
+					description="Civ 20";
 				};
 			};
 		};
@@ -844,7 +844,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_21";
-					description="Civilista 21";
+					description="Civ 21";
 				};
 			};
 		};
@@ -866,7 +866,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_22";
-					description="Civilista 22";
+					description="Civ 22";
 				};
 			};
 		};
@@ -888,7 +888,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_23";
-					description="Civilista 23";
+					description="Civ 23";
 				};
 			};
 		};
@@ -910,7 +910,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_24";
-					description="Civilista 24";
+					description="Civ 24";
 				};
 			};
 		};
@@ -932,7 +932,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_25";
-					description="Civilista 25";
+					description="Civ 25";
 				};
 			};
 		};
@@ -954,7 +954,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_26";
-					description="Civilista 26";
+					description="Civ 26";
 				};
 			};
 		};
@@ -976,7 +976,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_27";
-					description="Civilista 27";
+					description="Civ 27";
 				};
 			};
 		};
@@ -998,7 +998,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_28";
-					description="Civilista 28";
+					description="Civ 28";
 				};
 			};
 		};
@@ -1020,7 +1020,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_29";
-					description="Civilista 29";
+					description="Civ 29";
 				};
 			};
 		};
@@ -1042,7 +1042,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_30";
-					description="Civilista 30";
+					description="Civ 30";
 				};
 			};
 		};
@@ -1064,7 +1064,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_31";
-					description="Civilista 31";
+					description="Civ 31";
 				};
 			};
 		};
@@ -1086,7 +1086,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_32";
-					description="Civilista 32";
+					description="Civ 32";
 				};
 			};
 		};
@@ -1108,7 +1108,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_33";
-					description="Civilista 33";
+					description="Civ 33";
 				};
 			};
 		};
@@ -1130,7 +1130,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_34";
-					description="Civilista 34";
+					description="Civ 34";
 				};
 			};
 		};
@@ -1152,7 +1152,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_35";
-					description="Civilista 35";
+					description="Civ 35";
 				};
 			};
 		};
@@ -1174,7 +1174,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_36";
-					description="Civilista 36";
+					description="Civ 36";
 				};
 			};
 		};
@@ -1196,7 +1196,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_37";
-					description="Civilista 37";
+					description="Civ 37";
 				};
 			};
 		};
@@ -1218,7 +1218,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_38";
-					description="Civilista 38";
+					description="Civ 38";
 				};
 			};
 		};
@@ -1240,7 +1240,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_39";
-					description="Civilista 39";
+					description="Civ 39";
 				};
 			};
 		};
@@ -1262,7 +1262,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_40";
-					description="Civilista 40";
+					description="Civ 40";
 				};
 			};
 		};
@@ -1284,7 +1284,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_41";
-					description="Civilista 41";
+					description="Civ 41";
 				};
 			};
 		};
@@ -1306,7 +1306,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_42";
-					description="Civilista 42";
+					description="Civ 42";
 				};
 			};
 		};
@@ -1328,7 +1328,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_43";
-					description="Civilista 43";
+					description="Civ 43";
 				};
 			};
 		};
@@ -1350,7 +1350,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_44";
-					description="Civilista 44";
+					description="Civ 44";
 				};
 			};
 		};
@@ -1372,7 +1372,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_45";
-					description="Civilista 45";
+					description="Civ 45";
 				};
 			};
 		};
@@ -1394,7 +1394,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_46";
-					description="Civilista 46";
+					description="Civ 46";
 				};
 			};
 		};
@@ -1416,7 +1416,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_47";
-					description="Civilista 47";
+					description="Civ 47";
 				};
 			};
 		};
@@ -1438,7 +1438,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_48";
-					description="Civilista 48";
+					description="Civ 48";
 				};
 			};
 		};
@@ -1460,7 +1460,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_49";
-					description="Civilista 49";
+					description="Civ 49";
 				};
 			};
 		};
@@ -1482,7 +1482,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_50";
-					description="Civilista 50";
+					description="Civ 50";
 				};
 			};
 		};
@@ -1504,7 +1504,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_51";
-					description="Civilista 51";
+					description="Civ 51";
 				};
 			};
 		};
@@ -1526,7 +1526,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_52";
-					description="Civilista 52";
+					description="Civ 52";
 				};
 			};
 		};
@@ -1548,7 +1548,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_53";
-					description="Civilista 53";
+					description="Civ 53";
 				};
 			};
 		};
@@ -1570,7 +1570,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_54";
-					description="Civilista 54";
+					description="Civ 54";
 				};
 			};
 		};
@@ -1592,7 +1592,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_55";
-					description="Civilista 55";
+					description="Civ 55";
 				};
 			};
 		};
@@ -1614,7 +1614,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_56";
-					description="Civilista 56";
+					description="Civ 56";
 				};
 			};
 		};
@@ -1636,7 +1636,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_57";
-					description="Civilista 57";
+					description="Civ 57";
 				};
 			};
 		};
@@ -1658,7 +1658,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_58";
-					description="Civilista 58";
+					description="Civ 58";
 				};
 			};
 		};
@@ -1680,7 +1680,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_59";
-					description="Civilista 59";
+					description="Civ 59";
 				};
 			};
 		};
@@ -1702,7 +1702,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_60";
-					description="Civilista 60";
+					description="Civ 60";
 				};
 			};
 		};
@@ -1724,7 +1724,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_61";
-					description="Civilista 61";
+					description="Civ 61";
 				};
 			};
 		};
@@ -1746,7 +1746,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_62";
-					description="Civilista 62";
+					description="Civ 62";
 				};
 			};
 		};
@@ -1768,7 +1768,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_63";
-					description="Civilista 63";
+					description="Civ 63";
 				};
 			};
 		};
@@ -1790,7 +1790,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_64";
-					description="Civilista 64";
+					description="Civ 64";
 				};
 			};
 		};
@@ -1812,7 +1812,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_65";
-					description="Civilista 65";
+					description="Civ 65";
 				};
 			};
 		};
@@ -1834,7 +1834,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_70";
-					description="Civilista 70";
+					description="Civ 70";
 				};
 			};
 		};
@@ -1856,7 +1856,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_69";
-					description="Civilista 69";
+					description="Civ 69";
 				};
 			};
 		};
@@ -1878,7 +1878,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_68";
-					description="Civilista 68";
+					description="Civ 68";
 				};
 			};
 		};
@@ -1900,7 +1900,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_67";
-					description="Civilista 67";
+					description="Civ 67";
 				};
 			};
 		};
@@ -1922,7 +1922,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_66";
-					description="Civilista 66";
+					description="Civ 66";
 				};
 			};
 		};
@@ -1944,7 +1944,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_75";
-					description="Civilista 75";
+					description="Civ 75";
 				};
 			};
 		};
@@ -1966,7 +1966,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_74";
-					description="Civilista 74";
+					description="Civ 74";
 				};
 			};
 		};
@@ -1988,7 +1988,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_73";
-					description="Civilista 73";
+					description="Civ 73";
 				};
 			};
 		};
@@ -2010,7 +2010,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_72";
-					description="Civilista 72";
+					description="Civ 72";
 				};
 			};
 		};
@@ -2032,7 +2032,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_71";
-					description="Civilista 71";
+					description="Civ 71";
 				};
 			};
 		};
@@ -2205,7 +2205,7 @@ class Mission
 				};
 				class Item8
 				{
-					position[]={21469.971,18.160772,16319.307};
+					position[]={6263.9048,43,16263.942};
 					azimut=-201.90874;
 					special="NONE";
 					id=105;
@@ -2264,7 +2264,7 @@ class Mission
 				};
 				class Item13
 				{
-					position[]={11382.129,21.275688,14230.026};
+					position[]={3491.488,19.496876,14146.168};
 					azimut=-172.9617;
 					special="NONE";
 					id=110;
@@ -2324,7 +2324,7 @@ class Mission
 				};
 				class Item18
 				{
-					position[]={17168.018,61.199608,17461.33};
+					position[]={10385.096,27.72389,13200.513};
 					azimut=-59.36726;
 					offsetY=0.1;
 					special="NONE";
@@ -2867,7 +2867,7 @@ class Mission
 				};
 				class Item64
 				{
-					position[]={15431.063,4.2692528,15958.875};
+					position[]={12583.018,34.082306,16395.953};
 					azimut=77.718811;
 					special="NONE";
 					id=161;
@@ -2878,8 +2878,8 @@ class Mission
 				};
 				class Item65
 				{
-					position[]={25313.789,81.993286,21804.648};
-					azimut=-384.72653;
+					position[]={14344.414,37.078114,18951.988};
+					azimut=-201.90871;
 					special="NONE";
 					id=162;
 					side="CIV";
@@ -2901,7 +2901,7 @@ class Mission
 				};
 				class Item67
 				{
-					position[]={14938.153,18.555962,17576.898};
+					position[]={5328.0278,22.176325,14478.166};
 					azimut=-3.6651614;
 					special="NONE";
 					id=164;
@@ -2912,7 +2912,7 @@ class Mission
 				};
 				class Item68
 				{
-					position[]={25043.537,16.197634,20226.367};
+					position[]={9530.334,127.03391,15077.91};
 					azimut=-140.9787;
 					special="NONE";
 					id=165;
@@ -2923,7 +2923,7 @@ class Mission
 				};
 				class Item69
 				{
-					position[]={14943.911,18.429384,17581.154};
+					position[]={17869.512,2.4159205,18200.68};
 					azimut=218.15526;
 					offsetY=0.5;
 					special="NONE";
@@ -2981,7 +2981,7 @@ class Mission
 				};
 				class Item74
 				{
-					position[]={19076.346,26.849854,16665.248};
+					position[]={27363.262,6.3343554,24467};
 					azimut=-482.44373;
 					special="NONE";
 					id=171;
@@ -3052,8 +3052,8 @@ class Mission
 				};
 				class Item80
 				{
-					position[]={17972.248,4.3468361,18114.396};
-					azimut=-731.07343;
+					position[]={23645.043,51.117146,21801.219};
+					azimut=-482.44772;
 					special="NONE";
 					id=177;
 					side="CIV";
@@ -3365,7 +3365,7 @@ class Mission
 				};
 				class Item108
 				{
-					position[]={16727.32,18.200001,16192.728};
+					position[]={16555.859,1.8132056,15550.087};
 					azimut=-68.5467;
 					special="NONE";
 					id=205;
@@ -3448,7 +3448,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="medic_1";
-					description="Osetrovatel 1";
+					description="EMS Medic";
 				};
 				class Item1
 				{
@@ -3461,7 +3461,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="medic_3";
-					description="Osetrovatel 3";
+					description="EMS Medic";
 				};
 				class Item2
 				{
@@ -3474,7 +3474,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="medic_4";
-					description="Osetrovatel 4";
+					description="EMS Medic";
 				};
 				class Item3
 				{
@@ -3487,14 +3487,14 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="medic_2";
-					description="Osetrovatel 2";
+					description="EMS Medic";
 				};
 			};
 		};
 	};
 	class Vehicles
 	{
-		items=537;
+		items=525;
 		class Item0
 		{
 			position[]={8065.1616,35.674362,24985.314};
@@ -4071,7 +4071,7 @@ class Mission
 		};
 		class Item56
 		{
-			position[]={23350.35,3.1900001,18444.42};
+			position[]={23825.127,3.1900001,18603.191};
 			id=269;
 			side="EMPTY";
 			vehicle="Land_cmp_Hopper_F";
@@ -8918,130 +8918,10 @@ class Mission
 			skill=0.60000002;
 			init="this enableSimulation false;";
 		};
-		class Item525
-		{
-			position[]={3653.23,10.302907,13105.472};
-			azimut=122.309;
-			id=738;
-			side="EMPTY";
-			vehicle="Land_Billboard_F";
-			skill=0.60000002;
-			init="this allowDamage false; this setObjectTexture [0, ""images\billboard1.jpg""]";
-		};
-		class Item526
-		{
-			position[]={3656.6941,10.345361,13105.307};
-			azimut=240.418;
-			id=739;
-			side="EMPTY";
-			vehicle="Land_Billboard_F";
-			skill=0.60000002;
-			init="this allowDamage false; this setObjectTexture [0, ""images\billboard2.jpg""]";
-		};
-		class Item527
-		{
-			position[]={3654.8442,10.338243,13102.482};
-			azimut=360.85001;
-			id=740;
-			side="EMPTY";
-			vehicle="Land_Billboard_F";
-			skill=0.60000002;
-			init="this allowDamage false; this setObjectTexture [0, ""images\billboard3.jpg""]";
-		};
-		class Item528
-		{
-			position[]={17004.988,16.127319,12882.387};
-			azimut=122.309;
-			id=741;
-			side="EMPTY";
-			vehicle="Land_Billboard_F";
-			skill=0.60000002;
-			init="this allowDamage false; this setObjectTexture [0, ""images\billboard1.jpg""]";
-		};
-		class Item529
-		{
-			position[]={17008.453,16.072134,12882.222};
-			azimut=240.418;
-			id=742;
-			side="EMPTY";
-			vehicle="Land_Billboard_F";
-			skill=0.60000002;
-			init="this allowDamage false; this setObjectTexture [0, ""images\billboard2.jpg""]";
-		};
-		class Item530
-		{
-			position[]={17006.604,16.111252,12879.397};
-			azimut=360.85001;
-			id=743;
-			side="EMPTY";
-			vehicle="Land_Billboard_F";
-			skill=0.60000002;
-			init="this allowDamage false; this setObjectTexture [0, ""images\billboard3.jpg""]";
-		};
-		class Item531
-		{
-			position[]={14048.713,25.143564,18761.012};
-			azimut=122.309;
-			id=744;
-			side="EMPTY";
-			vehicle="Land_Billboard_F";
-			skill=0.60000002;
-			init="this allowDamage false; this setObjectTexture [0, ""images\billboard1.jpg""]";
-		};
-		class Item532
-		{
-			position[]={14052.178,25.189793,18760.848};
-			azimut=240.418;
-			id=745;
-			side="EMPTY";
-			vehicle="Land_Billboard_F";
-			skill=0.60000002;
-			init="this allowDamage false; this setObjectTexture [0, ""images\billboard2.jpg""]";
-		};
-		class Item533
-		{
-			position[]={14050.328,25.320488,18758.023};
-			azimut=360.85001;
-			id=746;
-			side="EMPTY";
-			vehicle="Land_Billboard_F";
-			skill=0.60000002;
-			init="this allowDamage false; this setObjectTexture [0, ""images\billboard3.jpg""]";
-		};
-		class Item534
-		{
-			position[]={25709.613,20.63122,21388.334};
-			azimut=122.309;
-			id=747;
-			side="EMPTY";
-			vehicle="Land_Billboard_F";
-			skill=0.60000002;
-			init="this allowDamage false; this setObjectTexture [0, ""images\billboard1.jpg""]";
-		};
-		class Item535
-		{
-			position[]={25713.078,20.650124,21388.17};
-			azimut=240.418;
-			id=748;
-			side="EMPTY";
-			vehicle="Land_Billboard_F";
-			skill=0.60000002;
-			init="this allowDamage false; this setObjectTexture [0, ""images\billboard2.jpg""]";
-		};
-		class Item536
-		{
-			position[]={25711.229,20.610214,21385.346};
-			azimut=360.85001;
-			id=749;
-			side="EMPTY";
-			vehicle="Land_Billboard_F";
-			skill=0.60000002;
-			init="this allowDamage false; this setObjectTexture [0, ""images\billboard3.jpg""]";
-		};
 	};
 	class Markers
 	{
-		items=219;
+		items=215;
 		class Item0
 		{
 			position[]={8459.6777,104.56568,25131.203};
@@ -9064,7 +8944,7 @@ class Mission
 		{
 			position[]={3400.7595,1.8830158,12899.346};
 			name="fish_market_1";
-			text="Obchodnik s rybami";
+			text="Fish Market";
 			type="mil_box";
 			colorName="ColorGreen";
 		};
@@ -9072,7 +8952,7 @@ class Mission
 		{
 			position[]={3765.8088,18.85,12990.187};
 			name="hospital_marker";
-			text="Nemocnice";
+			text="Hospital";
 			type="loc_Hospital";
 			colorName="ColorRed";
 		};
@@ -9111,7 +8991,7 @@ class Mission
 		{
 			position[]={13820.758,19.826002,18969.209};
 			name="cop_spawn_3";
-			text="Policejni stanice";
+			text="Police Station";
 			type="mil_box";
 			colorName="ColorBLUFOR";
 		};
@@ -9119,7 +8999,7 @@ class Mission
 		{
 			position[]={14161.147,19.243717,16295.893};
 			name="cop_spawn_4";
-			text="Policejni letecka zakladna";
+			text="Police Air HQ";
 			type="mil_box";
 			colorName="ColorBLUFOR";
 		};
@@ -9127,23 +9007,23 @@ class Mission
 		{
 			position[]={19856.078,62.778057,17895.051};
 			name="iron_1";
-			text="Dul na zelezo";
+			text="Iron Mine";
 			type="mil_triangle";
 			colorName="ColorBrown";
 		};
 		class Item13
 		{
-			position[]={23349.004,3.1900001,18442.896};
+			position[]={23823.781,3.1900001,18601.668};
 			name="salt_1";
-			text="Dul na sul";
+			text="Salt Mine";
 			type="mil_triangle";
 			colorName="ColorBrown";
 		};
 		class Item14
 		{
-			position[]={19074.451,26.700464,16664.012};
+			position[]={27361.367,6.3006272,24465.764};
 			name="Salt";
-			text="Zpracovani soli";
+			text="Salt Processing";
 			type="mil_box";
 			colorName="ColorBrown";
 		};
@@ -9151,7 +9031,7 @@ class Mission
 		{
 			position[]={22150.52,3.150569,14475.64};
 			name="Correctional Facility";
-			text="Napravne zarizeni Altis";
+			text="Altis Corrections";
 			type="mil_dot";
 			colorName="Color4_FD_F";
 		};
@@ -9159,7 +9039,7 @@ class Mission
 		{
 			position[]={3269.3455,2.1793349,12967.998};
 			name="police_hq_1";
-			text="Policejni zakladna";
+			text="Police HQ";
 			type="mil_box";
 			colorName="Color4_FD_F";
 		};
@@ -9167,7 +9047,7 @@ class Mission
 		{
 			position[]={16589.234,11,12763.845};
 			name="police_hq_2";
-			text="Policejni stanice";
+			text="Police Station";
 			type="mil_box";
 			colorName="Color4_FD_F";
 		};
@@ -9175,7 +9055,7 @@ class Mission
 		{
 			position[]={14276.118,4.1247582,13044.42};
 			name="CG";
-			text="Pobrezni straz";
+			text="Coast Guard ";
 			type="Empty";
 			colorName="Color4_FD_F";
 		};
@@ -9183,7 +9063,7 @@ class Mission
 		{
 			position[]={9188.2607,14.383561,21670.799};
 			name="Rebelop";
-			text="Zakladna rebelu";
+			text="Rebel Outpost";
 			type="mil_triangle";
 			colorName="Color1_FD_F";
 		};
@@ -9191,7 +9071,7 @@ class Mission
 		{
 			position[]={14676.569,17.91,16773.182};
 			name="airshop";
-			text="Obchod s letadly";
+			text="Air Shop";
 			type="mil_dot";
 			colorName="Color1_FD_F";
 		};
@@ -9199,15 +9079,15 @@ class Mission
 		{
 			position[]={3763.6846,34.367668,12372.792};
 			name="civ_truck_shop1";
-			text="Obchod s nakladaky";
+			text="Truck Shop";
 			type="c_car";
 			colorName="ColorBlue";
 		};
 		class Item22
 		{
-			position[]={21469.592,18.172958,16320.738};
+			position[]={6263.5244,43,16265.374};
 			name="OilP";
-			text="Zpracovani oleje";
+			text="Oil Processing";
 			type="mil_box";
 			colorName="ColorBrown";
 		};
@@ -9215,7 +9095,7 @@ class Mission
 		{
 			position[]={10232.705,95.303696,14854.982};
 			name="iron_processing";
-			text="Zpracovani zeleza";
+			text="Iron Processing";
 			type="mil_box";
 			colorName="ColorBrown";
 		};
@@ -9223,7 +9103,7 @@ class Mission
 		{
 			position[]={8090.8218,77.531647,22620.234};
 			name="sand_1";
-			text="Dul na pisek";
+			text="Sand Mine";
 			type="mil_triangle";
 			colorName="ColorBrown";
 		};
@@ -9231,7 +9111,7 @@ class Mission
 		{
 			position[]={8959.7256,69.222336,15507.252};
 			name="chop_shop_1";
-			text="Prekupnik kradenych vozidel";
+			text="Chop Shop";
 			type="o_armor";
 			colorName="Color1_FD_F";
 		};
@@ -9239,7 +9119,7 @@ class Mission
 		{
 			position[]={8440.3506,49.484863,12756.805};
 			name="cocaine processing";
-			text="Zpracovani cocainu";
+			text="Cocaine Processing";
 			type="mil_dot";
 			colorName="Color1_FD_F";
 		};
@@ -9247,15 +9127,15 @@ class Mission
 		{
 			position[]={167.63799,0.021615377,14709.002};
 			name="truck_1";
-			text="Obchod s nakladaky";
+			text="Truck Shop";
 			type="c_car";
 			colorName="ColorBlack";
 		};
 		class Item28
 		{
-			position[]={18490.549,25.6584,14312.067};
+			position[]={4412.5562,37.095924,12605.266};
 			name="lead_1";
-			text="Dul na med";
+			text="Copper Mine";
 			type="mil_triangle";
 			colorName="ColorBrown";
 		};
@@ -9263,7 +9143,7 @@ class Mission
 		{
 			position[]={167.56963,0.078673914,14509.83};
 			name="atm";
-			text="Bankomat";
+			text="ATM";
 			type="loc_Tourism";
 			colorName="ColorGreen";
 		};
@@ -9271,7 +9151,7 @@ class Mission
 		{
 			position[]={163.73174,0.012321081,14411.306};
 			name="lbank";
-			text="Banka";
+			text="Local Bank";
 			type="loc_Tourism";
 			colorName="ColorBLUFOR";
 		};
@@ -9279,7 +9159,7 @@ class Mission
 		{
 			position[]={169.09892,-0.026115492,14814.396};
 			name="Carshop";
-			text="Obchod s vozidly";
+			text="Car Shop";
 			type="c_car";
 			colorName="ColorWhite";
 		};
@@ -9287,7 +9167,7 @@ class Mission
 		{
 			position[]={169.36064,0.027309759,14608.475};
 			name="Hospital_1";
-			text="Nemocnice";
+			text="Hospital/Clinic";
 			type="loc_Hospital";
 			colorName="ColorRed";
 		};
@@ -9300,9 +9180,9 @@ class Mission
 		};
 		class Item34
 		{
-			position[]={17053.908,23.407591,11371.138};
+			position[]={13928.122,24.577969,22310.945};
 			name="diamond_1";
-			text="Dul na diamanty";
+			text="Diamond Mine";
 			type="mil_triangle";
 			colorName="ColorBrown";
 		};
@@ -9318,7 +9198,7 @@ class Mission
 		{
 			position[]={3479.1758,2.6362305,13231.096};
 			name="Gen";
-			text="Obchod s vybavenim";
+			text="General Store";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -9326,7 +9206,7 @@ class Mission
 		{
 			position[]={162.51799,-0.069760568,14300.679};
 			name="Gen_1";
-			text="Obchod s oblecenim";
+			text="Civilian Shops";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -9334,7 +9214,7 @@ class Mission
 		{
 			position[]={161.06902,0.056310706,14202.72};
 			name="boat_1";
-			text="Obchod s lodemi";
+			text="Boat Shop";
 			type="c_ship";
 			colorName="ColorWhite";
 		};
@@ -9356,7 +9236,7 @@ class Mission
 		{
 			position[]={3364.3098,4.8093276,13064.118};
 			name="Gen_3";
-			text="Obchod s oblecenim";
+			text="Bruce's Outback Outfits";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -9378,7 +9258,7 @@ class Mission
 		{
 			position[]={4187.0205,36.297176,13106.365};
 			name="apple_1";
-			text="Jablecny sad";
+			text="Apple Field";
 			type="loc_Tree";
 			colorName="Color3_FD_F";
 		};
@@ -9386,7 +9266,7 @@ class Mission
 		{
 			position[]={25982.121,15.485652,20889.566};
 			name="apple_2";
-			text="Jablecny sad";
+			text="Apple Field";
 			type="loc_Tree";
 			colorName="Color3_FD_F";
 		};
@@ -9394,7 +9274,7 @@ class Mission
 		{
 			position[]={4345.1636,33.150127,13982.917};
 			name="peaches_2";
-			text="Broskvovy sad";
+			text="Peaches Field";
 			type="loc_Tree";
 			colorName="Color3_FD_F";
 		};
@@ -9402,7 +9282,7 @@ class Mission
 		{
 			position[]={10800.928,32.462917,13238.061};
 			name="peaches_1";
-			text="Broskvovy sad";
+			text="Peaches Field";
 			type="loc_Tree";
 			colorName="Color3_FD_F";
 		};
@@ -9410,7 +9290,7 @@ class Mission
 		{
 			position[]={3486.2664,7.7271852,12951.688};
 			name="Gen_3_1";
-			text="Obchod";
+			text="Market";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -9418,7 +9298,7 @@ class Mission
 		{
 			position[]={10022.424,14.231085,12550.737};
 			name="apple_3";
-			text="Jablecny sad";
+			text="Apple Field";
 			type="loc_Tree";
 			colorName="Color3_FD_F";
 		};
@@ -9426,7 +9306,7 @@ class Mission
 		{
 			position[]={13618,16.567661,18105.947};
 			name="apple_4";
-			text="Jablecny sad";
+			text="Apple Field";
 			type="loc_Tree";
 			colorName="Color3_FD_F";
 		};
@@ -9434,7 +9314,7 @@ class Mission
 		{
 			position[]={13120.37,39.285686,19673.133};
 			name="peaches_3";
-			text="Broskvovy sad";
+			text="Peach Field";
 			type="loc_Tree";
 			colorName="Color3_FD_F";
 		};
@@ -9442,7 +9322,7 @@ class Mission
 		{
 			position[]={14418.972,18.719999,16244.317};
 			name="air_serv_1";
-			text="Opravna letecke techniky";
+			text="Air Service Station";
 			type="respawn_air";
 			colorName="Color1_FD_F";
 		};
@@ -9450,7 +9330,7 @@ class Mission
 		{
 			position[]={3269.3455,2.1793349,12967.998};
 			name="Police HQ_1";
-			text="Policejni zakladna";
+			text="Police HQ";
 			type="mil_box";
 			colorName="Color4_FD_F";
 		};
@@ -9458,7 +9338,7 @@ class Mission
 		{
 			position[]={4563.9795,262.76147,15414.913};
 			name="7News_1";
-			text="Televizni kanal 7";
+			text="Channel 7 News";
 			type="loc_Transmitter";
 			colorName="ColorWhite";
 		};
@@ -9466,7 +9346,7 @@ class Mission
 		{
 			position[]={3669.2141,10.440954,13108.464};
 			name="car1_1";
-			text="Obchod s vozidly";
+			text="Car Shop";
 			type="c_car";
 			colorName="ColorWhite";
 		};
@@ -9482,7 +9362,7 @@ class Mission
 		{
 			position[]={3041.5544,2.0197022,12612.536};
 			name="boat_2";
-			text="Obchod s lodemi";
+			text="Boat Shop";
 			type="c_ship";
 			colorName="ColorWhite";
 		};
@@ -9490,7 +9370,7 @@ class Mission
 		{
 			position[]={3638.6743,10.186527,13077.098};
 			name="license_shop";
-			text="Licence";
+			text="DMV";
 			type="c_unknown";
 			colorName="ColorBlue";
 			angle=-1.9030067;
@@ -9499,7 +9379,7 @@ class Mission
 		{
 			position[]={3914.5459,16.270481,13591.836};
 			name="dp_missions";
-			text="Mise kuryra";
+			text="Delivery Missions";
 			type="mil_box";
 			colorName="ColorYellow";
 		};
@@ -9507,16 +9387,16 @@ class Mission
 		{
 			position[]={3427.2068,2.5439744,12735.082};
 			name="dive_shop";
-			text="Potreby pro potapeni";
+			text="Diving Shop";
 			type="mil_box";
 			colorName="ColorOrange";
 			angle=-144.45552;
 		};
 		class Item61
 		{
-			position[]={11383.434,21.264656,14229.7};
+			position[]={3492.7932,19.49818,14145.842};
 			name="Dealer_1";
-			text="Drogovy dealer";
+			text="Drug Dealer";
 			type="mil_dot";
 			colorName="ColorOrange";
 		};
@@ -9733,7 +9613,7 @@ class Mission
 		{
 			position[]={20884.641,2.7453954,14624.866};
 			name="Dealer_1_3";
-			text="Drogovy dealer";
+			text="Drug Dealer";
 			type="mil_dot";
 			colorName="ColorOrange";
 		};
@@ -9741,7 +9621,7 @@ class Mission
 		{
 			position[]={14327.465,18.488745,17427.523};
 			name="Dealer_1_4";
-			text="Drogovy dealer";
+			text="Drug Dealer";
 			type="mil_dot";
 			colorName="ColorOrange";
 			angle=-57.933056;
@@ -9750,7 +9630,7 @@ class Mission
 		{
 			position[]={25943.723,17.185471,21374.17};
 			name="Kavala Freight Yard_1_1_1_1_1";
-			text="Nakladni depo Sofia";
+			text="Sofia Freight Yard";
 			type="mil_dot";
 			colorName="ColorUnknown";
 			angle=-415.91299;
@@ -9759,15 +9639,15 @@ class Mission
 		{
 			position[]={25831.131,20.912157,21446.154};
 			name="car1_1";
-			text="Obchod s vozidly";
+			text="Car Shop";
 			type="c_car";
 			colorName="ColorWhite";
 		};
 		class Item91
 		{
-			position[]={25313.654,82.017075,21805.158};
+			position[]={14344.174,37.080429,18952.045};
 			name="dimond_1";
-			text="Zpracovani diamantu";
+			text="Diamond Processing";
 			type="mil_triangle";
 			colorName="ColorBrown";
 		};
@@ -9775,31 +9655,31 @@ class Mission
 		{
 			position[]={9186.0107,27.468599,13990.347};
 			name="oil_2";
-			text="Ropne pole";
+			text="Oil Field";
 			type="mil_triangle";
 			colorName="ColorBrown";
 		};
 		class Item93
 		{
-			position[]={21826.992,1.5533837,14353.42};
+			position[]={9757.7891,231.07008,19445.281};
 			name="oil_1";
-			text="Ropne pole";
+			text="Oil Field";
 			type="mil_triangle";
 			colorName="ColorBrown";
 		};
 		class Item94
 		{
-			position[]={21187.209,28.293152,13510.249};
+			position[]={11556.398,77.697838,7048.0737};
 			name="weed_1";
-			text="Konopne pole";
+			text="Weed Field";
 			type="mil_dot";
 			colorName="Color1_FD_F";
 		};
 		class Item95
 		{
-			position[]={17169.385,61.25164,17461.234};
+			position[]={10390.828,27.723936,13200.983};
 			name="Weed_p_1";
-			text="Zpracovani konopi";
+			text="Weed Processing";
 			type="mil_dot";
 			colorName="Color1_FD_F";
 		};
@@ -9861,7 +9741,7 @@ class Mission
 		{
 			position[]={14026.765,26.91745,18705.039};
 			name="license_shop_1";
-			text="Licence";
+			text="DMV";
 			type="c_unknown";
 			colorName="ColorBlue";
 			angle=-1.9030067;
@@ -9884,7 +9764,7 @@ class Mission
 		{
 			position[]={26847.824,24.010233,24593.961};
 			name="airshop_1";
-			text="Obchod s letadly";
+			text="Air Shop";
 			type="mil_dot";
 			colorName="Color1_FD_F";
 		};
@@ -9929,7 +9809,7 @@ class Mission
 		{
 			position[]={3002.437,0.019021351,12651.198};
 			name="civ_ship_1";
-			text="Pristav";
+			text="Boat Spawn";
 			type="loc_Quay";
 			colorName="ColorOrange";
 		};
@@ -9937,7 +9817,7 @@ class Mission
 		{
 			position[]={9085.4102,20.793713,12038.007};
 			name="Gen_3_1_1";
-			text="Obchod";
+			text="Market";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -9945,7 +9825,7 @@ class Mission
 		{
 			position[]={8956.4238,27.330736,11999.08};
 			name="Gen_3_3";
-			text="Obchod s oblecenim";
+			text="Bruce's Outback Outfits";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -9953,7 +9833,7 @@ class Mission
 		{
 			position[]={25665.254,19.308283,21296.332};
 			name="Gen_3_4";
-			text="Obchod s oblecenim";
+			text="Bruce's Outback Outfits";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -9961,7 +9841,7 @@ class Mission
 		{
 			position[]={25573.17,19.70323,21312.16};
 			name="Gen_3_1_1_1";
-			text="Obchod";
+			text="Market";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -9969,7 +9849,7 @@ class Mission
 		{
 			position[]={14041.689,24.368345,18787.1};
 			name="Gen_3_1_1_2";
-			text="Obchod";
+			text="Market";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -9977,15 +9857,15 @@ class Mission
 		{
 			position[]={14074.721,23.343645,18559.061};
 			name="Gen_3_4_1";
-			text="Obchod s oblecenim";
+			text="Bruce's Outback Outfits";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
 		class Item120
 		{
-			position[]={25043.561,16.185575,20225.867};
+			position[]={9530.3555,127.03247,15077.41};
 			name="copper_mine_1";
-			text="Zpracovani medi";
+			text="Copper Processing";
 			type="mil_box";
 			colorName="ColorBrown";
 		};
@@ -9993,7 +9873,7 @@ class Mission
 		{
 			position[]={25801.424,20.775288,21409.266};
 			name="license_shop_2";
-			text="Licence";
+			text="DMV";
 			type="c_unknown";
 			colorName="ColorBlue";
 			angle=-1.9030067;
@@ -10002,7 +9882,7 @@ class Mission
 		{
 			position[]={16813.541,22.862633,12625.873};
 			name="Gen_2";
-			text="Obchod s vybavenim";
+			text="General Store";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -10010,7 +9890,7 @@ class Mission
 		{
 			position[]={25779.512,20.229164,21352.607};
 			name="Gen_2_1";
-			text="Obchod s vybavenim";
+			text="General Store";
 			type="c_unknown";
 			colorName="ColorGreen";
 			angle=-0.67126209;
@@ -10019,7 +9899,7 @@ class Mission
 		{
 			position[]={16995.186,15.885057,12661.559};
 			name="license_shop_2_1";
-			text="Licence";
+			text="DMV";
 			type="c_unknown";
 			colorName="ColorBlue";
 			angle=30.320122;
@@ -10028,7 +9908,7 @@ class Mission
 		{
 			position[]={5188.1885,217.79607,20872.66};
 			name="cocaine_1";
-			text="Cocainove pole";
+			text="Cocaine Field";
 			type="mil_dot";
 			colorName="Color1_FD_F";
 		};
@@ -10044,9 +9924,9 @@ class Mission
 		};
 		class Item127
 		{
-			position[]={15430.823,4.2636161,15957.758};
+			position[]={12582.778,34.149235,16394.836};
 			name="oil_trader";
-			text="Obchodnik s ropou";
+			text="Oil Trader";
 			type="b_unknown";
 			colorName="ColorOrange";
 		};
@@ -10054,15 +9934,15 @@ class Mission
 		{
 			position[]={20695.104,4.5465231,19467.057};
 			name="oil_trader_1";
-			text="Obchodnik se soli";
+			text="Salt Trader";
 			type="b_unknown";
 			colorName="ColorOrange";
 		};
 		class Item129
 		{
-			position[]={14943.565,18.416191,17580.303};
+			position[]={17869.166,2.40886,18199.828};
 			name="oil_trader_2";
-			text="Obchodnik s diamanty";
+			text="Diamond Trader";
 			type="b_unknown";
 			colorName="ColorOrange";
 			angle=0.26148701;
@@ -10071,15 +9951,15 @@ class Mission
 		{
 			position[]={4928.9746,16.186176,14576.784};
 			name="oil_trader_3";
-			text="Obchodnik se sklem";
+			text="Glass Trader";
 			type="b_unknown";
 			colorName="ColorOrange";
 		};
 		class Item131
 		{
-			position[]={14938.011,18.532724,17575.348};
+			position[]={5327.8848,22.266685,14476.616};
 			name="oil_trader_4";
-			text="Obchodnik s medi/zelezem";
+			text="Iron / Copper Trader";
 			type="b_unknown";
 			colorName="ColorOrange";
 			angle=-0.60203898;
@@ -10088,7 +9968,7 @@ class Mission
 		{
 			position[]={5379.1855,77.380905,17922.482};
 			name="dimond_1_1";
-			text="Zpracovani pisku";
+			text="Sand Processing";
 			type="mil_triangle";
 			colorName="ColorBrown";
 			angle=-80.305901;
@@ -10097,7 +9977,7 @@ class Mission
 		{
 			position[]={18157.965,26.492321,12840.584};
 			name="civ_truck_shop1_1";
-			text="Obchodnik s nakladaky";
+			text="Truck Shop";
 			type="c_car";
 			colorName="ColorBlue";
 		};
@@ -10119,7 +9999,7 @@ class Mission
 		{
 			position[]={12290.406,123.8956,8899.7314};
 			name="Rebelop_1";
-			text="Zakladna rebelu";
+			text="Rebel Outpost";
 			type="mil_triangle";
 			colorName="Color1_FD_F";
 		};
@@ -10127,7 +10007,7 @@ class Mission
 		{
 			position[]={20081.033,100.96766,6737.1904};
 			name="Rebelop_2";
-			text="Zakladna rebelu";
+			text="Rebel Outpost";
 			type="mil_triangle";
 			colorName="Color1_FD_F";
 		};
@@ -10135,7 +10015,7 @@ class Mission
 		{
 			position[]={9326.4922,14.638341,11912.618};
 			name="gun_store_1";
-			text="Obchodnik se zbranemi";
+			text="Gun Store";
 			type="loc_Bunker";
 			colorName="ColorRed";
 			angle=7.2259879;
@@ -10144,22 +10024,22 @@ class Mission
 		{
 			position[]={16340.104,24.965635,17266.721};
 			name="gun_store_1_1";
-			text="Obchodnik se zbranemi";
+			text="Gun Store";
 			type="loc_Bunker";
 			colorName="ColorRed";
 			angle=62.195702;
 		};
 		class Item140
 		{
-			position[]={21546.725,17.203976,18135.947};
+			position[]={19878.146,30.042439,17011.926};
 			name="heroin_1";
-			text="Heroinove pole";
+			text="Heroin Field";
 			type="hd_dot";
 			colorName="ColorRed";
 		};
 		class Item141
 		{
-			position[]={21546.279,18.06226,18128.645};
+			position[]={19877.701,29.819229,17004.623};
 			name="heroin_area";
 			markerType="ELLIPSE";
 			type="Empty";
@@ -10169,12 +10049,11 @@ class Mission
 		};
 		class Item142
 		{
-			position[]={17973.084,4.3508596,18114.082};
+			position[]={23644.953,51.044296,21802.297};
 			name="heroin_p";
-			text="Zpracovani heroinu";
+			text="Heroin Processing";
 			type="mil_dot";
 			colorName="ColorRed";
-			angle=-248.62537;
 		};
 		class Item143
 		{
@@ -10187,7 +10066,7 @@ class Mission
 		{
 			position[]={3739.0391,12.721933,13268.451};
 			name="civ_gar_1";
-			text="Garaz";
+			text="Garage";
 			type="o_service";
 		};
 		class Item145
@@ -10201,7 +10080,7 @@ class Mission
 		{
 			position[]={14259,19.362194,16303.427};
 			name="civ_gar_1_1";
-			text="Garaz";
+			text="Garage";
 			type="o_service";
 			angle=108.01333;
 		};
@@ -10216,7 +10095,7 @@ class Mission
 		{
 			position[]={25723.572,18.269375,21278.281};
 			name="civ_gar_1_2";
-			text="Garaz";
+			text="Garage";
 			type="o_service";
 			angle=168.39328;
 		};
@@ -10231,7 +10110,7 @@ class Mission
 		{
 			position[]={14473.113,19.164511,17754.678};
 			name="civ_gar_1_3";
-			text="Garaz";
+			text="Garage";
 			type="o_service";
 			angle=136.74835;
 		};
@@ -10239,7 +10118,7 @@ class Mission
 		{
 			position[]={12682.691,1.9715809,14214.604};
 			name="boat_2_1";
-			text="Obchodnik s lodemi";
+			text="Boat Shop";
 			type="c_ship";
 			colorName="ColorWhite";
 		};
@@ -10247,7 +10126,7 @@ class Mission
 		{
 			position[]={12697.163,-0.013685904,14197.867};
 			name="civ_ship_2";
-			text="Pristav";
+			text="Boat Spawn";
 			type="loc_Quay";
 			colorName="ColorOrange";
 		};
@@ -10255,7 +10134,7 @@ class Mission
 		{
 			position[]={17539.715,3.019192,18943.441};
 			name="boat_2_1_1";
-			text="Obchodnik s lodemi";
+			text="Boat Shop";
 			type="c_ship";
 			colorName="ColorWhite";
 		};
@@ -10263,7 +10142,7 @@ class Mission
 		{
 			position[]={17565.404,0,18927.883};
 			name="civ_ship_3";
-			text="Pristav";
+			text="Boat Spawn";
 			type="loc_Quay";
 			colorName="ColorOrange";
 		};
@@ -10271,7 +10150,7 @@ class Mission
 		{
 			position[]={17017.518,15.925221,12628.14};
 			name="Gen_3_1_1_3";
-			text="Obchod";
+			text="Market";
 			type="c_unknown";
 			colorName="ColorGreen";
 			angle=127.88971;
@@ -10280,7 +10159,7 @@ class Mission
 		{
 			position[]={13946.49,22.888865,18664.123};
 			name="Gen_4";
-			text="Obchodnik s vybavenim";
+			text="General Store";
 			type="c_unknown";
 			colorName="ColorGreen";
 		};
@@ -10295,7 +10174,7 @@ class Mission
 		{
 			position[]={16018.33,13.650147,16953.154};
 			name="fed_reserve";
-			text="Federalni reservy";
+			text="Federal Reserve";
 			type="mil_box";
 			colorName="Color4_FD_F";
 		};
@@ -10303,7 +10182,7 @@ class Mission
 		{
 			position[]={23538.549,13.160051,19945.574};
 			name="cop_spawn_5";
-			text="Zakladna dalnicni hlidky";
+			text="Highway Patrol Outpost";
 			type="mil_box";
 			colorName="ColorBLUFOR";
 		};
@@ -10316,9 +10195,9 @@ class Mission
 		};
 		class Item161
 		{
-			position[]={17083.469,44.758038,11463.233};
+			position[]={17073.295,24.327265,11361.496};
 			name="rock_1";
-			text="Kamenolom";
+			text="Rock Quarry";
 			type="mil_box";
 			colorName="ColorBrown";
 		};
@@ -10326,7 +10205,7 @@ class Mission
 		{
 			position[]={19314.266,21.279949,16545.195};
 			name="rock_proc";
-			text="Zpracovani kamene";
+			text="Rock Processing";
 			type="mil_dot";
 			colorName="ColorBrown";
 		};
@@ -10334,7 +10213,7 @@ class Mission
 		{
 			position[]={16578.012,14.273811,15989.947};
 			name="oil_trader_3_1";
-			text="Obchodnik s cementem";
+			text="Cement Trader";
 			type="b_unknown";
 			colorName="ColorOrange";
 		};
@@ -10342,14 +10221,14 @@ class Mission
 		{
 			position[]={11849.67,4.2975636,13611.597};
 			name="dive_shop_1";
-			text="Potreby pro potapeni";
+			text="Diving Shop";
 			type="mil_box";
 			colorName="ColorOrange";
 			angle=-144.45552;
 		};
 		class Item165
 		{
-			position[]={15406.562,-0.16660511,8579.3223};
+			position[]={15213.041,-0.011334214,12527.978};
 			name="turtle_1";
 			markerType="ELLIPSE";
 			type="Empty";
@@ -10359,14 +10238,14 @@ class Mission
 		};
 		class Item166
 		{
-			position[]={15432.725,-0.13107364,8554.5};
+			position[]={15239.204,-0.10417931,12503.155};
 			name="turtle_1_name";
-			text="Lov zelv";
+			text="Turtle Poaching";
 			type="mil_dot";
 		};
 		class Item167
 		{
-			position[]={22628.209,0.029228531,9951.8828};
+			position[]={6444.689,-0.064472109,9385.3115};
 			name="turtle_2";
 			markerType="ELLIPSE";
 			type="Empty";
@@ -10376,9 +10255,9 @@ class Mission
 		};
 		class Item168
 		{
-			position[]={22654.371,0.20498882,9927.0605};
+			position[]={6470.8521,0.066574216,9360.4893};
 			name="turtle_1_name_1";
-			text="Lov zelv";
+			text="Turtle Poaching";
 			type="mil_dot";
 		};
 		class Item169
@@ -10395,14 +10274,14 @@ class Mission
 		{
 			position[]={3319.884,-0.087620348,16587.537};
 			name="turtle_1_name_2";
-			text="Lov zelv";
+			text="Turtle Poaching";
 			type="mil_dot";
 		};
 		class Item171
 		{
 			position[]={10246.375,5.3159304,11272.208};
 			name="turle_dealer";
-			text="Prekupnik zelv";
+			text="Turtle Dealer";
 			type="mil_dot";
 			colorName="ColorRed";
 		};
@@ -10410,7 +10289,7 @@ class Mission
 		{
 			position[]={24660.627,17.608727,23158.951};
 			name="chop_shop_2";
-			text="Prekupnik kradenych vozidel";
+			text="Chop Shop";
 			type="o_armor";
 			colorName="Color1_FD_F";
 		};
@@ -10418,7 +10297,7 @@ class Mission
 		{
 			position[]={5242.2974,78.634445,11514.398};
 			name="chop_shop_3";
-			text="Prekupnik kradenych vozidel";
+			text="Chop Shop";
 			type="o_armor";
 			colorName="Color1_FD_F";
 		};
@@ -10426,7 +10305,7 @@ class Mission
 		{
 			position[]={19029.779,23.749619,14549.058};
 			name="chop_shop_4";
-			text="Prekupnik kradenych vozidel";
+			text="Chop Shop";
 			type="o_armor";
 			colorName="Color1_FD_F";
 		};
@@ -10601,7 +10480,7 @@ class Mission
 		{
 			position[]={15600.498,18.554039,17211.836};
 			name="hospital_2";
-			text="Nemocnice";
+			text="Hospital";
 			type="loc_Hospital";
 			colorName="ColorRed";
 			angle=-52.633999;
@@ -10610,7 +10489,7 @@ class Mission
 		{
 			position[]={17495.891,12.760118,13290.289};
 			name="hospital_3";
-			text="Nemocnice";
+			text="Hospital";
 			type="loc_Hospital";
 			colorName="ColorRed";
 			angle=-45.916607;
@@ -10640,7 +10519,7 @@ class Mission
 		{
 			position[]={14166.97,16.696758,16522.855};
 			name="kart_shop_text_1";
-			text="Obchod s motokarama";
+			text="Go-Kart Shop";
 			type="loc_Power";
 			colorName="ColorBlue";
 		};
@@ -10679,7 +10558,7 @@ class Mission
 		{
 			position[]={13795.459,60.220287,6396.0879};
 			name="gold_bar_dealer";
-			text="Vykup zlatych cihel";
+			text="Gold Bars Buyer";
 			type="loc_ViewTower";
 			colorName="ColorYellow";
 		};
@@ -10703,7 +10582,7 @@ class Mission
 		{
 			position[]={11693.286,37.651257,15914.844};
 			name="gang_area_1";
-			text="Ukryt gangu 1";
+			text="Gang Hideout 1";
 			type="hd_warning";
 			colorName="ColorRed";
 		};
@@ -10711,7 +10590,7 @@ class Mission
 		{
 			position[]={4885.7808,17.059162,14418.125};
 			name="gang_area_2";
-			text="Ukryt gangu 2";
+			text="Gang Hideout 2";
 			type="hd_warning";
 			colorName="ColorRed";
 			angle=-358.09299;
@@ -10720,7 +10599,7 @@ class Mission
 		{
 			position[]={18383.779,27.092974,15248.242};
 			name="gang_area_3";
-			text="Ukryt gangu 3";
+			text="Gang Hideout 3";
 			type="hd_warning";
 			colorName="ColorRed";
 			angle=2.7999959;
@@ -10729,42 +10608,18 @@ class Mission
 		{
 			position[]={3307.8906,12.716581,14142.727};
 			name="turle_dealer_1";
-			text="Prekupnik zelv";
+			text="Turtle Dealer";
 			type="mil_dot";
 			colorName="ColorRed";
 			angle=77.713181;
 		};
 		class Item214
 		{
-			position[]={16727.859,18.200001,16193.109};
+			position[]={16556.398,1.8017138,15550.469};
 			name="turle_dealer_2";
-			text="Prekupnik zelv";
+			text="Turtle Dealer";
 			type="mil_dot";
 			colorName="ColorRed";
-		};
-		class Item215
-		{
-			position[]={25711.41,20.635317,21387.564};
-			name="info1";
-			type="mil_unknown";
-		};
-		class Item216
-		{
-			position[]={3654.7822,10.326681,13104.507};
-			name="help2";
-			type="mil_unknown";
-		};
-		class Item217
-		{
-			position[]={17006.625,16.103136,12881.57};
-			name="help3";
-			type="mil_unknown";
-		};
-		class Item218
-		{
-			position[]={14050.397,25.212965,18760.107};
-			name="help4";
-			type="mil_unknown";
 		};
 	};
 };

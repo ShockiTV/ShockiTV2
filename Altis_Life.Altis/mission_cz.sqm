@@ -2205,7 +2205,7 @@ class Mission
 				};
 				class Item8
 				{
-					position[]={21469.971,18.160772,16319.307};
+					position[]={6263.9048,43,16263.942};
 					azimut=-201.90874;
 					special="NONE";
 					id=105;
@@ -2264,7 +2264,7 @@ class Mission
 				};
 				class Item13
 				{
-					position[]={11382.129,21.275688,14230.026};
+					position[]={3491.488,19.496876,14146.168};
 					azimut=-172.9617;
 					special="NONE";
 					id=110;
@@ -2324,7 +2324,7 @@ class Mission
 				};
 				class Item18
 				{
-					position[]={17168.018,61.199608,17461.33};
+					position[]={10385.096,27.72389,13200.513};
 					azimut=-59.36726;
 					offsetY=0.1;
 					special="NONE";
@@ -2867,7 +2867,7 @@ class Mission
 				};
 				class Item64
 				{
-					position[]={15431.063,4.2692528,15958.875};
+					position[]={12583.018,34.082306,16395.953};
 					azimut=77.718811;
 					special="NONE";
 					id=161;
@@ -2878,8 +2878,8 @@ class Mission
 				};
 				class Item65
 				{
-					position[]={25313.789,81.993286,21804.648};
-					azimut=-384.72653;
+					position[]={14344.414,37.078114,18951.988};
+					azimut=-201.90871;
 					special="NONE";
 					id=162;
 					side="CIV";
@@ -2901,7 +2901,7 @@ class Mission
 				};
 				class Item67
 				{
-					position[]={14938.153,18.555962,17576.898};
+					position[]={5328.0278,22.176325,14478.166};
 					azimut=-3.6651614;
 					special="NONE";
 					id=164;
@@ -2912,7 +2912,7 @@ class Mission
 				};
 				class Item68
 				{
-					position[]={25043.537,16.197634,20226.367};
+					position[]={9530.334,127.03391,15077.91};
 					azimut=-140.9787;
 					special="NONE";
 					id=165;
@@ -2923,7 +2923,7 @@ class Mission
 				};
 				class Item69
 				{
-					position[]={14943.911,18.429384,17581.154};
+					position[]={17869.512,2.4159205,18200.68};
 					azimut=218.15526;
 					offsetY=0.5;
 					special="NONE";
@@ -2981,7 +2981,7 @@ class Mission
 				};
 				class Item74
 				{
-					position[]={19076.346,26.849854,16665.248};
+					position[]={27363.262,6.3343554,24467};
 					azimut=-482.44373;
 					special="NONE";
 					id=171;
@@ -3052,8 +3052,8 @@ class Mission
 				};
 				class Item80
 				{
-					position[]={17972.248,4.3468361,18114.396};
-					azimut=-731.07343;
+					position[]={23645.043,51.117146,21801.219};
+					azimut=-482.44772;
 					special="NONE";
 					id=177;
 					side="CIV";
@@ -3365,7 +3365,7 @@ class Mission
 				};
 				class Item108
 				{
-					position[]={16727.32,18.200001,16192.728};
+					position[]={16555.859,1.8132056,15550.087};
 					azimut=-68.5467;
 					special="NONE";
 					id=205;
@@ -4071,7 +4071,7 @@ class Mission
 		};
 		class Item56
 		{
-			position[]={23350.35,3.1900001,18444.42};
+			position[]={23825.127,3.1900001,18603.191};
 			id=269;
 			side="EMPTY";
 			vehicle="Land_cmp_Hopper_F";
@@ -9133,7 +9133,7 @@ class Mission
 		};
 		class Item13
 		{
-			position[]={23349.004,3.1900001,18442.896};
+			position[]={23823.781,3.1900001,18601.668};
 			name="salt_1";
 			text="Dul na sul";
 			type="mil_triangle";
@@ -9141,7 +9141,7 @@ class Mission
 		};
 		class Item14
 		{
-			position[]={19074.451,26.700464,16664.012};
+			position[]={27361.367,6.3006272,24465.764};
 			name="Salt";
 			text="Zpracovani soli";
 			type="mil_box";
@@ -9205,7 +9205,7 @@ class Mission
 		};
 		class Item22
 		{
-			position[]={21469.592,18.172958,16320.738};
+			position[]={6263.5244,43,16265.374};
 			name="OilP";
 			text="Zpracovani oleje";
 			type="mil_box";
@@ -9253,7 +9253,7 @@ class Mission
 		};
 		class Item28
 		{
-			position[]={18490.549,25.6584,14312.067};
+			position[]={4412.5562,37.095924,12605.266};
 			name="lead_1";
 			text="Dul na med";
 			type="mil_triangle";
@@ -9300,7 +9300,7 @@ class Mission
 		};
 		class Item34
 		{
-			position[]={17053.908,23.407591,11371.138};
+			position[]={13928.122,24.577969,22310.945};
 			name="diamond_1";
 			text="Dul na diamanty";
 			type="mil_triangle";
@@ -9514,7 +9514,7 @@ class Mission
 		};
 		class Item61
 		{
-			position[]={11383.434,21.264656,14229.7};
+			position[]={3492.7932,19.49818,14145.842};
 			name="Dealer_1";
 			text="Drogovy dealer";
 			type="mil_dot";
@@ -9765,7 +9765,7 @@ class Mission
 		};
 		class Item91
 		{
-			position[]={25313.654,82.017075,21805.158};
+			position[]={14344.174,37.080429,18952.045};
 			name="dimond_1";
 			text="Zpracovani diamantu";
 			type="mil_triangle";
@@ -9781,7 +9781,7 @@ class Mission
 		};
 		class Item93
 		{
-			position[]={21826.992,1.5533837,14353.42};
+			position[]={9757.7891,231.07008,19445.281};
 			name="oil_1";
 			text="Ropne pole";
 			type="mil_triangle";
@@ -9789,7 +9789,7 @@ class Mission
 		};
 		class Item94
 		{
-			position[]={21187.209,28.293152,13510.249};
+			position[]={11556.398,77.697838,7048.0737};
 			name="weed_1";
 			text="Konopne pole";
 			type="mil_dot";
@@ -9797,7 +9797,7 @@ class Mission
 		};
 		class Item95
 		{
-			position[]={17169.385,61.25164,17461.234};
+			position[]={10390.828,27.723936,13200.983};
 			name="Weed_p_1";
 			text="Zpracovani konopi";
 			type="mil_dot";
@@ -9983,7 +9983,7 @@ class Mission
 		};
 		class Item120
 		{
-			position[]={25043.561,16.185575,20225.867};
+			position[]={9530.3555,127.03247,15077.41};
 			name="copper_mine_1";
 			text="Zpracovani medi";
 			type="mil_box";
@@ -10044,7 +10044,7 @@ class Mission
 		};
 		class Item127
 		{
-			position[]={15430.823,4.2636161,15957.758};
+			position[]={12582.778,34.149235,16394.836};
 			name="oil_trader";
 			text="Obchodnik s ropou";
 			type="b_unknown";
@@ -10060,7 +10060,7 @@ class Mission
 		};
 		class Item129
 		{
-			position[]={14943.565,18.416191,17580.303};
+			position[]={17869.166,2.40886,18199.828};
 			name="oil_trader_2";
 			text="Obchodnik s diamanty";
 			type="b_unknown";
@@ -10077,7 +10077,7 @@ class Mission
 		};
 		class Item131
 		{
-			position[]={14938.011,18.532724,17575.348};
+			position[]={5327.8848,22.266685,14476.616};
 			name="oil_trader_4";
 			text="Obchodnik s medi/zelezem";
 			type="b_unknown";
@@ -10151,7 +10151,7 @@ class Mission
 		};
 		class Item140
 		{
-			position[]={21546.725,17.203976,18135.947};
+			position[]={19878.146,30.042439,17011.926};
 			name="heroin_1";
 			text="Heroinove pole";
 			type="hd_dot";
@@ -10159,7 +10159,7 @@ class Mission
 		};
 		class Item141
 		{
-			position[]={21546.279,18.06226,18128.645};
+			position[]={19877.701,29.819229,17004.623};
 			name="heroin_area";
 			markerType="ELLIPSE";
 			type="Empty";
@@ -10169,12 +10169,11 @@ class Mission
 		};
 		class Item142
 		{
-			position[]={17973.084,4.3508596,18114.082};
+			position[]={23644.953,51.044296,21802.297};
 			name="heroin_p";
 			text="Zpracovani heroinu";
 			type="mil_dot";
 			colorName="ColorRed";
-			angle=-248.62537;
 		};
 		class Item143
 		{
@@ -10316,7 +10315,7 @@ class Mission
 		};
 		class Item161
 		{
-			position[]={17083.469,44.758038,11463.233};
+			position[]={17073.295,24.327265,11361.496};
 			name="rock_1";
 			text="Kamenolom";
 			type="mil_box";
@@ -10349,7 +10348,7 @@ class Mission
 		};
 		class Item165
 		{
-			position[]={15406.562,-0.16660511,8579.3223};
+			position[]={15213.041,-0.011334214,12527.978};
 			name="turtle_1";
 			markerType="ELLIPSE";
 			type="Empty";
@@ -10359,14 +10358,14 @@ class Mission
 		};
 		class Item166
 		{
-			position[]={15432.725,-0.13107364,8554.5};
+			position[]={15239.204,-0.10417931,12503.155};
 			name="turtle_1_name";
 			text="Lov zelv";
 			type="mil_dot";
 		};
 		class Item167
 		{
-			position[]={22628.209,0.029228531,9951.8828};
+			position[]={6444.689,-0.064472109,9385.3115};
 			name="turtle_2";
 			markerType="ELLIPSE";
 			type="Empty";
@@ -10376,7 +10375,7 @@ class Mission
 		};
 		class Item168
 		{
-			position[]={22654.371,0.20498882,9927.0605};
+			position[]={6470.8521,0.066574216,9360.4893};
 			name="turtle_1_name_1";
 			text="Lov zelv";
 			type="mil_dot";
@@ -10736,7 +10735,7 @@ class Mission
 		};
 		class Item214
 		{
-			position[]={16727.859,18.200001,16193.109};
+			position[]={16556.398,1.8017138,15550.469};
 			name="turle_dealer_2";
 			text="Prekupnik zelv";
 			type="mil_dot";
