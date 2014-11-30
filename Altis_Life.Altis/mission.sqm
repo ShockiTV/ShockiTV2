@@ -9010,7 +9010,7 @@ class Mission
 		};
 		class Item534
 		{
-			position[]={25709.613,20.63122,21388.334};
+			position[]={15621.632,31.524212,11076.445};
 			azimut=122.309;
 			id=747;
 			side="EMPTY";
@@ -9020,7 +9020,7 @@ class Mission
 		};
 		class Item535
 		{
-			position[]={25713.078,20.650124,21388.17};
+			position[]={15625.097,31.539484,11076.281};
 			azimut=240.418;
 			id=748;
 			side="EMPTY";
@@ -9030,7 +9030,7 @@ class Mission
 		};
 		class Item536
 		{
-			position[]={25711.229,20.610214,21385.346};
+			position[]={15623.247,31.451176,11073.457};
 			azimut=360.85001;
 			id=749;
 			side="EMPTY";
@@ -9041,7 +9041,7 @@ class Mission
 	};
 	class Markers
 	{
-		items=219;
+		items=222;
 		class Item0
 		{
 			position[]={8459.6777,104.56568,25131.203};
@@ -9078,7 +9078,7 @@ class Mission
 		};
 		class Item5
 		{
-			position[]={3529.9373,7.3869972,13055.158};
+			position[]={15576.665,27.75383,11026.56};
 			name="civ_spawn_1";
 			type="Empty";
 		};
@@ -9805,7 +9805,7 @@ class Mission
 		};
 		class Item96
 		{
-			position[]={25694.566,20.358076,21346.656};
+			position[]={12541.33,13.065928,14342.386};
 			name="civ_spawn_4";
 			type="Empty";
 		};
@@ -10744,7 +10744,7 @@ class Mission
 		};
 		class Item215
 		{
-			position[]={25711.41,20.635317,21387.564};
+			position[]={15623.429,31.512529,11075.676};
 			name="info1";
 			type="mil_unknown";
 		};
@@ -10765,6 +10765,30 @@ class Mission
 			position[]={14050.397,25.212965,18760.107};
 			name="help4";
 			type="mil_unknown";
+		};
+		class Item219
+		{
+			position[]={15684.206,26.168655,11055.078};
+			name="safe_zone_1";
+			type="Empty";
+		};
+		class Item220
+		{
+			position[]={15683.97,26.251965,11055.744};
+			name="safe_zone";
+			markerType="ELLIPSE";
+			type="Empty";
+			colorName="ColorGreen";
+			a=250;
+			b=250;
+		};
+		class Item221
+		{
+			position[]={15655.177,29.825869,11073.428};
+			name="safe_zone_marker";
+			text="Bezpecna zona";
+			type="mil_flag";
+			colorName="ColorGUER";
 		};
 	};
 };

@@ -110,7 +110,16 @@ switch (playerSide) do
 life_vShop_rentalOnly = ["B_MRAP_01_hmg_F","B_G_Offroad_01_armed_F"];
 __CONST__(life_vShop_rentalOnly,life_vShop_rentalOnly); //These vehicles can never be bought and only 'rented'. Used as a balancer & money sink. If you want your server to be chaotic then fine.. Remove it..
 
-life_safe_zones = [["safe_zone_1", 250]];
+life_safe_points =
+	[
+//		["safe_zone_1", 250],
+//        ["civ_spawn_1", 50],
+//		["civ_spawn_2", 50],
+//		["civ_spawn_3", 50],
+//		["civ_spawn_4", 50]
+		["safe_zone_1", 250]
+	];
+__CONST__(life_safe_points,life_safe_points);
 
 life_inv_items = 
 [

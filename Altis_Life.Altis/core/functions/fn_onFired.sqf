@@ -18,3 +18,11 @@ if(_ammoType == "GrenadeHand_stone") then {
 		[[_position],"life_fnc_flashbang",true,false] spawn life_fnc_MP;
 	};
 };
+
+if(playerSide != west) then {
+            if ({(_this select 0) distance getMarkerPos (_x select 0) < _x select 1} count __GETC__(life_safe_points) > 0) then
+            {
+             	deleteVehicle (_projectile);
+             	titleText ["You Are In A Safe Zone! Live rounds disabled", "PLAIN", 3];
+             };
+};
